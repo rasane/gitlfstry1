@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is 8AE0-B3E2
+
+ Directory of d:\Develop\temp\gitlfstutorial2
+
+18/10/2018  06:54 AM    <DIR>          .
+18/10/2018  06:54 AM    <DIR>          ..
+18/10/2018  06:53 AM                43 .gitattributes
+18/10/2018  06:54 AM                 0 foo.txt
+10/04/2018  05:18 PM            29,696 JavaScriptEngineSwitcher.Core.dll
+10/04/2018  05:18 PM            14,848 JavaScriptEngineSwitcher.Jint.dll
+               4 File(s)         44,587 bytes
+               2 Dir(s)  195,257,737,216 bytes free
